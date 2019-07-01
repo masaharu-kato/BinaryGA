@@ -1,0 +1,5 @@
+# Visual Studio Local Settings
+/.vs
+
+# Cmake Output Folder
+/out
